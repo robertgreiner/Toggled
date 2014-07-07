@@ -1,0 +1,8 @@
+D:\Sandbox\Toggled\Toggled\bin\Debug\Toggled.exe.config
+D:\Sandbox\Toggled\Toggled\bin\Debug\Toggled.exe
+D:\Sandbox\Toggled\Toggled\bin\Debug\Toggled.pdb
+D:\Sandbox\Toggled\Toggled\bin\Debug\FeatureToggle.Core.dll
+D:\Sandbox\Toggled\Toggled\bin\Debug\FeatureToggle.dll
+D:\Sandbox\Toggled\Toggled\obj\Debug\Toggled.csprojResolveAssemblyReference.cache
+D:\Sandbox\Toggled\Toggled\obj\Debug\Toggled.exe
+D:\Sandbox\Toggled\Toggled\obj\Debug\Toggled.pdb

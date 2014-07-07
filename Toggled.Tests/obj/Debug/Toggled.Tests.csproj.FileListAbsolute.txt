@@ -1,0 +1,13 @@
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\Toggled.Tests.dll.config
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\Toggled.Tests.dll
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\Toggled.Tests.pdb
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Sandbox\Toggled\Toggled.Tests\obj\Debug\Toggled.Tests.csprojResolveAssemblyReference.cache
+D:\Sandbox\Toggled\Toggled.Tests\obj\Debug\Toggled.Tests.dll
+D:\Sandbox\Toggled\Toggled.Tests\obj\Debug\Toggled.Tests.pdb
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\nunit.framework.dll
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\nunit.framework.xml
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\Toggled.exe
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\FeatureToggle.dll
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\Toggled.pdb
+D:\Sandbox\Toggled\Toggled.Tests\bin\Debug\FeatureToggle.Core.dll
